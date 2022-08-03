@@ -5,7 +5,7 @@
 - link blog: https://medium.com/@tpdlotu/what-happened-to-seattle-airbnb-in-2016-1b42db796a77
 
 I want to get into the data industry when I started my own business and realized the importance of making decisions based on the customer data I gathered. 
-Now I will give some information about my project
+Now I will give some information about my project:
 
 ### Table of Contents
 
